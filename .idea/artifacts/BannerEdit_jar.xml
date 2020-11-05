@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BannerEdit:jar">
+    <output-path>$USER_HOME$/Documents/Completed Plugins</output-path>
+    <root id="archive" name="BannerEdit.jar">
+      <element id="module-output" name="BannerEdit" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+name: BannerEdit
+version: 1.0
+main: me.poilet66.banneredit.BannerEdit
+api-version: 1.15
+commands:
+  editbanner:
+    description: Allows you to edit the banner in your hand.
+    usage: /editbanner
